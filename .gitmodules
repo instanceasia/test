@@ -1,0 +1,3 @@
+[submodule "extensions/digisurf"]
+	path = extensions/digisurf
+	url = git@github.com:instanceasia/digisurf.git
